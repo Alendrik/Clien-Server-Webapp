@@ -1,4 +1,4 @@
-# Clien-Server-Webapp
+# Client-Server-Webapp
 ## Functionality
   Webapp provides functionality of View, Download, Upload, and Delete on a tomcat server.  
 
